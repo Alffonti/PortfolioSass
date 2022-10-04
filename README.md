@@ -1,10 +1,3 @@
-
-This is a portfolio made with SASS.
-
-# Acknowledgement
-
-CodeSTACKR : https://youtu.be/_a5j7KoflTs
-
 # Portfolio - SASS project
 
 This is a project of the [Freecodecamp](https://www.youtube.com/watch?v=_a5j7KoflTs) tutorials on Youtube. The website was built from using Sass.
