@@ -14,7 +14,6 @@ Live site: [https://alffonti.github.io/portfolio-sass/dist/index.html)
 
 - [SASS](https://sass-lang.com/)
 - [FontAwesome](https://fontawesome.com/)
-- 
 
 ## Acknowledgments
 
