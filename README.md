@@ -8,7 +8,7 @@ This is a project of the [Freecodecamp](https://www.youtube.com/watch?v=_a5j7Kof
 
 The project aims to create a portfolio website with a short bio, featured works and contact information.
 
-Live site: [https://alffonti.github.io/portfolio-sass/dist/index.html)
+Live site: https://alffonti.github.io/portfolio-sass/dist/index.html
 
 ## Built with
 
