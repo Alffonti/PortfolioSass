@@ -4,7 +4,7 @@ This is a project of the [Freecodecamp](https://www.youtube.com/watch?v=_a5j7Kof
 
 ## About The Project
 
-![Portfolio screenshot](./screenshot.jpg)
+![Portfolio screenshot](https://user-images.githubusercontent.com/69361901/197349790-85676d8e-9064-4449-b0f0-5a312d19aa0e.png)
 
 The project aims to create a portfolio website with a short bio, featured works and contact information.
 
